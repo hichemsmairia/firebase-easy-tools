@@ -1,0 +1,15 @@
+{
+  "name": "from-firestore-to-another-firestore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Hichem Smairia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase-admin": "^13.0.1"
+  }
+}

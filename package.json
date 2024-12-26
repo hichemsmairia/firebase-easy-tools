@@ -1,0 +1,29 @@
+{
+  "name": "firebase-easy-tools",
+  "version": "1.1.0",
+  "type": "module",
+  "bin": {
+    "firebase-easy-tools": "./cli.js"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "postinstall": "node ./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "download-folder-data-tool",
+    "from-firestore-to-another-firestore",
+    "migrate-users",
+    "postinstall.js",
+    "cli.js"
+  ],
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^12.2.0",
+    "postinstall": "^0.7.5",
+    "firebase-admin": "^13.0.1"
+  }
+}
