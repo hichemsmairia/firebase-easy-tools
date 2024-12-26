@@ -1,5 +1,5 @@
 # Firebase Easy Tools
-
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://hichemsmairia.github.io/firebase-easy-tools/)
 ## Description
 
 ### English
